@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ara</h1>
-<h3 align="center">I'm a Software Engineer with TRIAGE skills.</h3>
+<h3 align="center">I'm a Software Engineer with TRIAGE skills.</h3></div>
+<img src="./av.jpg" />
+
 
 - 🔭 I’m currently working on **my portfolio!**
 
