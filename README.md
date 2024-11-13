@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, in a course at Brainstation!**
 
-- 📫 How to reach me **araventura-contact@gmail.com**
+- 📫 How to reach me **araventura.contact@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ara-ventura/](https://www.linkedin.com/in/ara-ventura/)
 
