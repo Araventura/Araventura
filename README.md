@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?araventura=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=araventura)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Araventura)](https://git.io/streak-stats)
