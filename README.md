@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my portfolio!**
 
-- 🌱 I’m currently learning **AI, in a course at Brainstation!**
+- 🌱 I’m earning an **AI certification at Brainstation!**
 
 - 📫 How to reach me **araventura.contact@gmail.com**
 
